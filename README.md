@@ -7,7 +7,7 @@ A Demo to get cpu power usage on a iOS application(non-jailbreak).
 3. Use a ipa inject tool to inject the dylib into the IPA
 4. Sign the app and play...
 
-# How to Get the log?
+# How to get the log?
 1. Open console.app in your Mac
 2. Select your Device from left panel.
 3. Search for `inject.c: power`. NOTE: The default sample rate is 1/1 second.
