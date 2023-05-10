@@ -1,5 +1,5 @@
 # ios_power_log
-A Demo to get cpu power usage on a iOS application(non-jailbreak).
+A Demo to get cpu power usage on a iOS application(non-jailbreak).https://github.com/apple-oss-distributions/xnu/blob/5c2921b07a2480ab43ec66f5b9e41cb872bc554f/doc/recount.md (XNU documentation)
 
 # How to inject library into IPAs
 1. Get a decrypted IPA for the app you want to measure. (e.g https://decrypt.day/).
