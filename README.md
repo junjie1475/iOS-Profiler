@@ -1,4 +1,4 @@
-#ios_power_log
+# iOS porfiler
 A dylib to get cpu power usage & P/E cluster frequency from a iOS application(non-jailbreak).https://github.com/apple-oss-distributions/xnu/blob/5c2921b07a2480ab43ec66f5b9e41cb872bc554f/doc/recount.md (XNU documentation)
 
 # How to inject library into IPAs
